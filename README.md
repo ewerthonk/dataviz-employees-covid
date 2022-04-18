@@ -16,7 +16,7 @@ A **visual** exploratory exercise on two datasets: **IBM Employees** and **Sao P
 
 - Scatter Plots with multiple colors.
 - Time Series.
-- Pie Plots ([Sorry, Ms. Knaflic.](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=asc_df_1119002257/?tag=googleshopp00-20&linkCode=df0&hvadid=379787555408&hvpos=&hvnetw=g&hvrand=2793399920721159232&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031858&hvtargid=pla-404294414086&psc=1) 
+- Pie Plots ([Sorry, Ms. Knaflic.](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=asc_df_1119002257/?tag=googleshopp00-20&linkCode=df0&hvadid=379787555408&hvpos=&hvnetw=g&hvrand=2793399920721159232&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031858&hvtargid=pla-404294414086&psc=1)).
 - Bar Plots.
 - Histograms.
 - Boxplots.
@@ -30,4 +30,4 @@ The same plots were created using 4 different libraries (link to each Notebook):
 
 **This repository is an exercise and not an analysis.** The idea here was to create the same plots across the libraries and explore their features, challenges, workarounds and better fits.
 
-To check one of my Visual Analysis, you may visit my dataviz-olympics repository (or directly access the notebook [HERE](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb) to see all the visualizations.)
+To check one of my Visual Analysis, you may visit my [dataviz-olympics](https://github.com/ewerthonk/dataviz-olympics) repository (or directly access the notebook [HERE](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb) to see all the visualizations.)
