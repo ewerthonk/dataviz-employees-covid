@@ -12,15 +12,22 @@
 
 ## 👨🏻‍🏫 Description
 
-A **visual** exploratory data analysis of 🇧🇷 Brazil at the Olympic Games using the ```athlete_events.csv``` dataset.
+A **visual** exploratory exercise on two datasets: **IBM Employees** and **Sao Paulo State 2020 Covid Data** using:
 
-The goal here was to practice data visualization skills. The notebook explores a few questions:
+- Scatter Plots with multiple colors.
+- Time Series.
+- Pie Plots ([Sorry, Ms. Knaflic.](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=asc_df_1119002257/?tag=googleshopp00-20&linkCode=df0&hvadid=379787555408&hvpos=&hvnetw=g&hvrand=2793399920721159232&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031858&hvtargid=pla-404294414086&psc=1) 
+- Bar Plots.
+- Histograms.
+- Boxplots.
 
-- Is there any correlation between an athlete's height and his/her performance for any sports?
-- Do you think taller Basketball Brazil Teams perform better than the smaller? What about footbal? What would be a good Volleyball Team average height?
-- What would be a good visualization to show, by sport, the proportion of gold, silver, and bronze medals Brazil have earned?
-- How was Brazil's evolution in earned medals through time?
- 
-**Access the notebook [HERE](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb) to see all the visualizations.**
+The same plots were created using 4 different libraries (link to each Notebook):
 
-**Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
+- [Pandas](https://github.com/ewerthonk/dataviz-employees-covid/blob/main/dataviz-plotting-with-pandas.ipynb).
+- [Matplotlib](https://github.com/ewerthonk/dataviz-employees-covid/blob/main/dataviz-plotting-with-matplotlib.ipynb).
+- [Plotly Express](https://github.com/ewerthonk/dataviz-employees-covid/blob/main/dataviz-plotting-with-plotly-express.ipynb).
+- [Seaborn](https://github.com/ewerthonk/dataviz-employees-covid/blob/main/dataviz-plotting-with-seaborn.ipynb).
+
+**This repository is an exercise and not an analysis.** The idea here was to create the same plots across the libraries and explore their features, challenges, workarounds and better fits.
+
+To check one of my Visual Analysis, you may visit my dataviz-olympics repository (or directly access the notebook [HERE](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb) to see all the visualizations.)
