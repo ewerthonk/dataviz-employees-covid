@@ -1,6 +1,10 @@
 # Data Visualization - IBM Employees and Covid
 
-*Exploratory Data Visual Analysis on IBM Employees and Covid data*
+<div align="center">
+  <em>Exploratory Data Visual Analysis on IBM Employees and Covid data.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
