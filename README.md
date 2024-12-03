@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/seaborn-add8e6?style=for-the-badge&logo=python&logoColor=333333">
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -45,7 +45,7 @@ Develop the same plots on four different python data visualization libraries: **
 
 ![Seaborn Chart Example](references/seaborn.png)
 
-# 🗄 Notebooks
+## 🗄 Notebooks
 
 - [1.0-matplotlib.ipynb](notebooks/1.0-matplotlib.ipynb)
 - [1.0-pandas_visualization.ipynb](notebooks/1.0-pandas_visualization.ipynb)
@@ -101,7 +101,7 @@ Develop the same plots on four different python data visualization libraries: **
 | pop60         | City population of 60+ years of age (estimate) |
 | ano_mes       | Date on YYYY_MM format                         |
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
